@@ -1,8 +1,7 @@
 # ☁️ Global Azure 2021 México (Virtual)
 
-Website: https://globalazure.mx
 
-## Sábado, 17/04/2020
+## Sábado, 17/04/2021
 
 ## 📅 Agenda
 
